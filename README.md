@@ -1,8 +1,9 @@
 # Hackintosh-AMD-3700X-X570-Quadro-K600
 
-WIN/MAC 双系统 双显卡
+WIN/MAC 双系统 双显卡 双SSD
 WIN下使用6700XT
 MAC下使用K600
+无需插拔显卡，根据需要在对应显卡上连接显示器
 
 | Type          | Name   |
 | --------      | -----  |
@@ -11,7 +12,7 @@ MAC下使用K600
 | CPU           |   AMD 3700X |
 | GPU           |   NVIDIA Quadro K600 / AMD RX 6700XT  |
 | MB            |   TUF GAMING X570-PLUS |
-| NVME          |   WD SN750    |
+| NVME          |   WD SN750 / WD SN550  |
 |WIFI           |   Broadcom 免驱网卡 |
 
 
@@ -32,16 +33,17 @@ MAC下使用K600
 
 # 正常工作
 
- - Wi-Fi
- - 蓝牙
- - 有线网络
- - 音频
- - Airdrop
- - 显示器 LG 27UL650 4k
+ - [x] Wi-Fi
+ - [x] 蓝牙
+ - [x] 有线网络
+ - [x] 音频
+ - [x] Airdrop
+ - [x] 显示器 LG 27UL650 4k
+ - [x] USB 3.1
 
 # 未正常工作
 
- - 睡眠
- - HDR （K600不支持 HDR）
+ - [ ] 睡眠
+ - [ ] HDR （K600不支持 HDR）
 
  
